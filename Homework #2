@@ -1,0 +1,12 @@
+def prime_factors(x):
+    count = 2
+    factors = []
+        while count <= x:
+            if x % count == 0:
+                x /= count
+                factors.append[count]
+            else:
+                count += 1
+    return factors
+
+

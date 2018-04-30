@@ -11,3 +11,4 @@ example: prime_factors(359723589)
         
 example: prime_factors(56)
         [2, 2, 2, 7]
+# EncryptWord
